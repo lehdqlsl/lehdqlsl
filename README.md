@@ -7,7 +7,7 @@ I'm a software engineer interested in backend systems, AI coding agents, self-ho
 ## Current project
 
 **OpenLander**  
-Self-hosted deployment control plane for coding agents.  
+MCP-native deployment control plane for coding agents.  
 https://github.com/openlander-ai/openlander
 
 ## Small tools
